@@ -6,10 +6,17 @@ The business has been performing well and I am tasked to analyse what the major 
 
 The dataset contains columns like –
 InvoiceNo
-StockCode 
+
+StockCode
+
 Description 
+
 Quantity 
+
 InvoiceDate 
+
 UnitPrice 
+
 CustomerID 
+
 Country 
