@@ -1,5 +1,4 @@
 # OnlineRetailAnalysis.Tableau
-Insights and Analysis on Online Retail Data
 
 It is an online retail store data and I am providing insights that would be valuable to the CEO and CMO for the business. 
 
